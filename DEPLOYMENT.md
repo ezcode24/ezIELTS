@@ -14,7 +14,7 @@ This guide provides step-by-step instructions for deploying the IELTS Exam Simul
 
 ### 1. Environment Variables
 
-Create a `.env` file in the root directory with the following variables:
+Create a `.env` file in the root directory (there is a env.example file in the folder) with the following variables:
 
 ```env
 # Server Configuration
